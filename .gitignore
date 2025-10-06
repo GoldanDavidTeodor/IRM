@@ -1,0 +1,28 @@
+# Unity cache and build
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+
+# User settings
+UserSettings/
+
+# Package cache (Vuforia etc.)
+**/Library/PackageCache/
+**/Packages/*.tgz
+
+# Visual Studio / Rider / IDE files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
