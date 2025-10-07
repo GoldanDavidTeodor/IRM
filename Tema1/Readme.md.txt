@@ -1,0 +1,1 @@
+Am reusit sa fac tot ceea ce era in cerinta obligatorie.
